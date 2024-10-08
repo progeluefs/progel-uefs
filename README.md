@@ -25,17 +25,17 @@ A seguir estão os passos para realizar uma instalação simplificada do site us
   - Pesquise por "All in One WP Migration".
   - Clique em **Instalar** e depois em **Ativar**.
 
-### 3. (Opcional) Instale a Extensão do Plugin:
+### 3. Instale a Extensão do Plugin:
 
 - Para importar arquivos maiores, pode ser necessário instalar a extensão **All in One WP Migration Extended**. Faça o download e instale a extensão:
-  - [Baixar Extensão](LINK DO ALL IN ONE EXTENDED).
+  - [Baixar Extensão](https://drive.google.com/file/d/12elQ16RXphm2F7fDe1oo4OL8xPe0gjC5/view?usp=drive_link).
   - No painel WordPress, vá em **Plugins > Adicionar Novo > Enviar Plugin**.
   - Selecione o arquivo da extensão e clique em **Instalar Agora** e depois em **Ativar**.
 
 ### 4. Faça o Upload do Arquivo Exportado:
 
 - Agora que o plugin está instalado e ativado, você pode importar o site usando o arquivo exportado:
-  - [Baixar Arquivo Exportado do Site](ARQUIVO DO SITE).
+  - [Baixar Arquivo Exportado do Site](https://drive.google.com/file/d/12cN2xwOo6HTRrBy9GBU7jm8lvRuY64aR/view?usp=drive_link).
   - No painel WordPress, vá até **All in One WP Migration > Importar**.
   - Faça o upload do arquivo exportado baixado anteriormente e siga as instruções para completar a importação.
 
