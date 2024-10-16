@@ -35,7 +35,7 @@ A seguir estão os passos para realizar uma instalação simplificada do site us
 ### 4. Faça o Upload do Arquivo Exportado:
 
 - Agora que o plugin está instalado e ativado, você pode importar o site usando o arquivo exportado:
-  - [Baixar Arquivo Exportado do Site](https://drive.google.com/file/d/12cN2xwOo6HTRrBy9GBU7jm8lvRuY64aR/view?usp=drive_link).
+  - [Baixar Arquivo Exportado do Site](https://drive.google.com/file/d/1DX-5kqAbGX1u_TCkyePs133feLGTa4rv/view?usp=drive_link).
   - No painel WordPress, vá até **All in One WP Migration > Importar**.
   - Faça o upload do arquivo exportado baixado anteriormente e siga as instruções para completar a importação.
 
